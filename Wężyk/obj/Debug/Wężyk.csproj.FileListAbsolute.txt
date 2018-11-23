@@ -1,0 +1,15 @@
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.csprojAssemblyReference.cache
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\App.g.cs
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk_MarkupCompile.cache
+C:\Users\Ola\source\repos\Wężyk\Wężyk\bin\Debug\Wężyk.exe.config
+C:\Users\Ola\source\repos\Wężyk\Wężyk\bin\Debug\Wężyk.exe
+C:\Users\Ola\source\repos\Wężyk\Wężyk\bin\Debug\Wężyk.pdb
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\MainWindow.g.cs
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk_MarkupCompile.lref
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\MainWindow.baml
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.g.resources
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.Properties.Resources.resources
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.csproj.GenerateResource.cache
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.csproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.exe
+C:\Users\Ola\source\repos\Wężyk\Wężyk\obj\Debug\Wężyk.pdb
