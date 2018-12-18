@@ -3,7 +3,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
@@ -13,9 +12,6 @@
 ## General info
 It is my first application in C#.
 
-## Screenshots
-![Example screenshot](./img/imgSnake.png)
-
 ## Technologies
 * C# - WPF
 
@@ -23,7 +19,6 @@ It is my first application in C#.
 List of TODOs for future development
 * Function to start game again
 * Label with points
-
 
 ## Status
 Project is: _in progress_.
